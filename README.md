@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Desteria01
+- 👋 Hi, I’m @Desteria01 or @Fauzaro01
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-end Web
 - 💞️ I’m looking to collaborate on @Fauzaro01
